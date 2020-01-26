@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>Reverse engineering di un box android rockchip (Schishion V88 Plus)</title>
+    <link rel="stylesheet" type="text/css" href="https://ilmich.github.io/style.css">
+</head>
+<body>
+	<div id="container" >
+		<div id="title" class="box"><h1>#LiveSimple and <a href="https://github.com/ilmich/">#ProgramThings</a></h1></div> 
+
+		<div id="content" class="box">
+<h3>Reverse engineering di un box android rockchip (Schishion V88 Plus)</h3>
+
+<p>Qualche tempo fa acquistai un box android in grado di rendere smart il mio vecchio televisore. Purtroppo, considerando anche il costo irrisorio legato soprattutto all&#39;assenza 
+di un brand blasonato, e&#39; risultato abbastanza inutilizzabile sia per quanto riguarda aggiornamenti del firmware (praticamente inesistenti) ma soprattutto per quel che 
+riguarda il drm e le piattaforme di streaming piu&#39; famose.  </p>
+
+<p>A questo punto ho pensato ad un modo per renderlo nuovamente utilizzabile provando ad installare una distribuzione Linux.<br/>
+Questa tipologia di dispositivi contiene sostanzialmente una single board computer con preinstallato il sistema operativo Android.  </p>
+
+<p>Il primo passo e&#39; stato quello di aprire il case e ispezionare la board.  </p>
+
+<p><a href="../resources/V88Plus_board.jpg"><img src="../resources/V88Plus_board.jpg" alt="V88Plus board" /></a></p>
+
+<p>Facendo un po&#39; di ricerce con il nome visibile sul lettore schede SD (MX4VR) ho scoperto una versione del device chiamata <strong>Schishion V88 Plus</strong> 
+che adotta soc <strong>Rockchip 3229</strong>.  </p>
+
+<p>Questo e&#39; un bene visto che la Rockchip fornisce un buon supporto sia a livello di <a href="http://opensource.rock-chips.com/wiki_Main_Page">documentazione</a> che a livello di codice <a href="https://github.com/rockchip-linux">opensource</a>.  </p>
+
+<p>Partendo dal soc, il <a href="http://www.rock-chips.com/a/en/products/RK32_Series/2016/1109/799.html">Rockchip 3229</a> non sembra essere uno dei miglior processori realizzati dall&#39;azienda, ma offre il supporto a livello hardware di diversi 
+codec video. Inoltre,la scheda grafica supporta le OpenGLES 2.0.  </p>
+
+<p>Approfondendo ulteriormente la vista della board, ho individuato il chip della memoria NAND  </p>
+
+<p><a href="../resources/V88Plus_nand.jpg"><img src="../resources/V88Plus_nand.jpg" alt="V88Plus nand" /></a></p>
+
+<p>il quale risulta essere (non vi sono molti riferimenti a riguardo o perlopiu&#39; sono in lingua cinese) un chip Spektek da 8Gb memoria NAND.  </p>
+
+<p>Stesso discorso per il modulo wifi. Dopo alcune ricerche non sono riuscito a ricavare molte informazioni, a parte il fatto che supporta il protocollo IEEE 802.11 b/g/n.  </p>
+
+<p><a href="../resources/V88Plus_wifi.jpg"><img src="../resources/V88Plus_wifi.jpg" alt="V88Plus wifi" /></a></p>
+
+<p>Sulla ram invece mi sono arreso. Vi sono 8 di questi chip (4 sul fronte e 4 sul retro) e in base a quanto riportato sulle varie etichette(1Gb ram totali) deduco siano moduli 
+da 256Mb (mi riservo di correggere l&#39;articolo in seguito)  </p>
+
+<p><a href="../resources/V88Plus_ddr.jpg"><img src="../resources/V88Plus_ddr.jpg" alt="V88Plus ddr" /></a></p>
+
+<p><em>&#8230;da continuare</em></p>
+		</div>
+
+		<div id="footer" class="box" style="text-align: center;">
+			Website generated with <a href="https://www.romanzolotarev.com/ssg.html">ssg5</a>
+		</div>
+	</div>
+</body>
+</html>
