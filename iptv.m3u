@@ -13,4 +13,24 @@
  #EXTINF:-1,Italia 1
  https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
  #EXTINF:-1,Tv8
- https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/index.m3u8
+ https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/index.m3u8?hdnea=st=1591082568~exp=1591082868~acl=/*~hmac=fc320873336e8a977d321101d6898bc2be4437ee36db75d8db45ac3195eb6bfd
+ #EXTINF:-1,Nove
+ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+ #EXTINF:-1,Rai 4
+ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+ #EXTINF:-1,Rai 5
+ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72382
+ #EXTINF:-1,Rai Movie
+ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+ #EXTINF:-1,Rai Storia
+ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24269
+ #EXTINF:-1,Focus
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+ #EXTINF:-1,Iris
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+ #EXTINF:-1,Top Crime
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+ #EXTINF:-1,Paramount
+ http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+ #EXTINF:-1,Dmax
+ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
