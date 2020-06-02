@@ -7,11 +7,11 @@
  #EXTINF:-1,Rai 3
  https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
  #EXTINF:-1,Rete 4
- https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/stream05/streamPlaylist.m3u8
  #EXTINF:-1,Canale 5
- https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/stream05/streamPlaylist.m3u8
  #EXTINF:-1,Italia 1
- https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/stream05/streamPlaylist.m3u8
  #EXTINF:-1,La7
  http://5.135.92.133:52841/out/u/101_2.m3u8
  #EXTINF:-1,Tv8
@@ -29,19 +29,19 @@
  #EXTINF:-1,Rai Storia
  http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24269
  #EXTINF:-1,Focus
- https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/stream05/streamPlaylist.m3u8
  #EXTINF:-1,Iris
- https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/stream05/streamPlaylist.m3u8
  #EXTINF:-1,Top Crime
- https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/stream05/streamPlaylist.m3u8
  #EXTINF:-1,Cine34
- https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/stream01/streamPlaylist.m3u8
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/stream05/streamPlaylist.m3u8
  #EXTINF:-1,20
- https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/stream01/streamPlaylist.m3u8
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/stream05/streamPlaylist.m3u8
  #EXTINF:-1,La 5
- https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/stream01/streamPlaylist.m3u8
- #EXTINF:-1,Italia 2
- https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/stream01/streamPlaylist.m3u8 
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/stream05/streamPlaylist.m3u8
+ #EXTINF:-1,Italia 2 
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/stream05/streamPlaylist.m3u8
  #EXTINF:-1,Dmax
  https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
  #EXTINF:-1,Giallo
