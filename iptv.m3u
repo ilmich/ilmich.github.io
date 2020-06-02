@@ -12,6 +12,8 @@
  https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
  #EXTINF:-1,Italia 1
  https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+ #EXTINF:-1,La7
+ http://5.135.92.133:52841/out/u/101_2.m3u8
  #EXTINF:-1,Tv8
  https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/index.m3u8?hdnea=st=1591082568~exp=1591082868~acl=/*~hmac=fc320873336e8a977d321101d6898bc2be4437ee36db75d8db45ac3195eb6bfd
  #EXTINF:-1,Nove
