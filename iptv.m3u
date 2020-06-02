@@ -32,7 +32,7 @@
  https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
  #EXTINF:-1,Top Crime
  https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
- #EXTINF:-1,Paramount
+ #EXTINF:-1,Paramount Channel
  https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8
  #EXTINF:-1,Dmax
  https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
