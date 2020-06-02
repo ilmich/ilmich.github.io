@@ -36,6 +36,10 @@
  https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
  #EXTINF:-1,Cine34
  https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/stream01/streamPlaylist.m3u8
+ #EXTINF:-1,20
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/stream01/streamPlaylist.m3u8
+ #EXTINF:-1,La 5
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/stream01/streamPlaylist.m3u8
  #EXTINF:-1,Italia 2
  https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/stream01/streamPlaylist.m3u8 
  #EXTINF:-1,Dmax
