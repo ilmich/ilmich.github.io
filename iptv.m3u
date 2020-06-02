@@ -38,3 +38,9 @@
  https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
  #EXTINF:-1,Cielo
  https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/playlist.m3u8?hdnea=st=1572279606~exp=1608028200~acl=/*~hmac=18c005bed78d7962401e55b92d29ee4f05023f9144388266daf5dfcf3b22b47a&Origin=www.cielotv.it
+ #EXTINF:-1,Cine34
+ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/stream01/streamPlaylist.m3u8
+ #EXTINF:-1,Italia 2
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/stream01/streamPlaylist.m3u8
+ #EXTINF:-1,Giallo
+ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/index_161_av-p.m3u8?sd=10&rebase=on&id=AgAC7HHcAheb5vFM1l5dwmxBc7Huskklghqpt2qFpu+%2fOjXZolMVKXVlw4w%2fo35OjBkwc%2fGyrD4Vqg%3d%3d
