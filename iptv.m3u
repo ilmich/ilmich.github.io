@@ -1,0 +1,53 @@
+ #EXTM3U
+ 
+ #EXTINF:-1,Rai 1
+ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+ #EXTINF:-1,Rai 2
+ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+ #EXTINF:-1,Rai 3
+ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+ #EXTINF:-1,Rete 4
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+ #EXTINF:-1,Canale 5
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+ #EXTINF:-1,Italia 1
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+ #EXTINF:-1,La7
+ http://5.135.92.133:52841/out/u/101_2.m3u8
+ #EXTINF:-1,Tv8
+ https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/index.m3u8?hdnea=st=1572279606~exp=1608028200~acl=/*~hmac=18c005bed78d7962401e55b92d29ee4f05023f9144388266daf5dfcf3b22b47a&Origin=tv8.it
+ #EXTINF:-1,Cielo
+ https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/playlist.m3u8?hdnea=st=1572279606~exp=1608028200~acl=/*~hmac=18c005bed78d7962401e55b92d29ee4f05023f9144388266daf5dfcf3b22b47a&Origin=www.cielotv.it
+  #EXTINF:-1,Nove
+ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+ #EXTINF:-1,Rai 4
+ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+ #EXTINF:-1,Rai 5
+ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72382
+ #EXTINF:-1,Rai Movie
+ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+ #EXTINF:-1,Rai Storia
+ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24269
+ #EXTINF:-1,Focus
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+ #EXTINF:-1,Iris
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+ #EXTINF:-1,Top Crime
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+ #EXTINF:-1,Cine34
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+ #EXTINF:-1,20
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+ #EXTINF:-1,La 5
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+ #EXTINF:-1,Italia 2 
+ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+ #EXTINF:-1,Dmax
+ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+ #EXTINF:-1,Giallo
+ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/index_161_av-p.m3u8?sd=10&rebase=on&id=AgAC7HHcAheb5vFM1l5dwmxBc7Huskklghqpt2qFpu+%2fOjXZolMVKXVlw4w%2fo35OjBkwc%2fGyrD4Vqg%3d%3d
+ #EXTINF:-1,Food Network
+ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/index_161_av-p.m3u8?sd=10&rebase=on&id=AgAC7HHcAheb5g1O1l6lan74nKmTcM4+GjNDbVfVjEAFQR5EX5hz4+jS3WBXNLFdUu91V98ARqfXVA%3d%3d
+ #EXTINF:-1,Paramount Channel
+ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8
+ 
